@@ -1,0 +1,327 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+body{
+    background-color: #494437;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+.h_1{
+    position: relative;
+    top: -20px;
+    color: #f7f7f7;
+    background-color: #000000;
+    padding: 15px;
+    text-align: center center;
+}
+
+.dev{
+    background-color: #514343;
+}
+
+
+div{
+    background-color: #d3d1d1;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+img {
+    background-attachment: fixed;
+    padding: 25px 25px;
+
+}
+
+.h{
+    color: #000000;
+    text-align: center center;
+    background-color: #fcfffd;
+    padding: 15px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    border-bottom-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    border-bottom: 5px solid  #000000;
+    margin: 10px;
+   
+
+
+
+
+}
+
+
+p{
+    color: #5a5656;
+    font-size: 16px;
+    background-position: center center;
+    
+}
+
+
+.containere {
+    width: 500px;
+    display: flex;
+    justify-content: center;
+}
+
+.image {
+    display: inline-flex;
+    justify-content: space-between;
+    margin-bottom: 0px;
+    background-color: #6c6060;
+    background-image: 6px;
+    background-position: center center;
+}
+.texe {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #121927;
+    background-image: 6px;
+    background-position: center center;
+}
+.texe p{
+    display: inline-flex;
+    margin-bottom: 550px;
+    color: #9a9797;
+   padding: 16px;
+   border-radius: 5px;
+   border: 2px solid  #0000;
+   text-align: center center;
+   background: 
+   linear-gradient(black, #222) padding-box,
+   linear-gradient(#09f, white) border-box;
+
+    
+
+}
+#pc {
+    text-align: center center;
+    margin: 15px;
+    padding: 20px;
+    display: inline-flex;
+    padding: 16px;
+   border-radius: 5px;
+   border: 2px solid  #0000;
+   text-align: center center;
+   background: 
+   linear-gradient(black, #222) padding-box,
+   linear-gradient(#09f, white) border-box;
+
+    
+}
+.texe h2{
+    display: inline-flex;
+    margin-bottom: 550px;
+    color: #9a9797;
+   padding: 16px;
+   border-radius: 5px;
+   border: 2px solid  #0000;
+   text-align: center center;
+   background: 
+   linear-gradient(black, #222) padding-box,
+   linear-gradient(#09f, white) border-box;
+
+}
+
+.container {
+    width: 150px;
+    height: 100%;
+    object-fit: cover;
+}
+  
+.image p{
+    display: inline-flex;
+    padding: 15px;
+    text-align: center center;
+    color: #525050;
+    background-color: #000000;
+    margin: 10px;
+}
+
+.image a{
+    display: inline-flex;
+    list-style: none;
+}
+
+.image h2{
+    padding: 15px ;
+    background-position: center center;
+    background-color: #5a5656;
+    text-align: center center;
+    padding: 15px;
+    display: inline-flex;
+    border-bottom-left-radius: 50px;
+    border-bottom: 5px solid  #000000;
+}
+
+.parrafo{ 
+    padding: 15px;
+    text-align: center center;
+    color: #fff1f1;
+    background-color: #20013e;
+    margin: 0px;
+}
+
+.citas{
+    background-color: #000000;
+    padding: 50px;
+    background-image: url(imagenes/skyline.png);
+    background-attachment: fixed;
+    margin: 0px;
+}
+
+.citas p{
+    color: #000000;
+    background-color: #9a9797;
+    padding: 15px;
+    border-radius: 35px;
+    display: inline-flex;
+    text-align: center center;
+    border-bottom: solid  10px #591717;
+    border-top: solid 10px #591717;
+}
+
+.citas blockquote{
+    color: #000000;
+    background-color: #9a9797;
+    margin: 15px;
+    padding: 35px;
+    border-top-left-radius: 50px;
+    border-bottom-right-radius: 50px;
+    display: inline-flex;
+    text-align: center center;
+    border-bottom: solid   10px #701919;
+    border-top: solid   10px #701919;
+}
+
+.citas h2{
+    color: #000000;
+    background-color: #fff8f8;
+    padding: 15px;
+    display: inline-flex;
+    border-radius: 55px;
+    margin: 15px; 
+}
+
+.cursivas {
+    background-color: #a34f00;
+    padding: 30px;
+    border-radius: 1000px;
+    border-right: solid  23px #000000;
+    border-left: solid   23px #000000;
+    border-top: solid   2px #000000;
+    border-bottom: solid   2px #000000;
+    display: inline-flex;
+}
+
+.cursivas p{
+    color: #fff1f1;
+    padding: 10px;
+}
+
+.private{
+    background-color: #a34f00;
+    text-align: center center;
+    padding: 15px;
+    display: inline-block;
+    border-bottom-left-radius: 50px;
+    border-bottom: 5px solid  #000000;
+}
+
+.primero{
+    background-color: #5c0707;
+    padding: 15px;
+    text-align: center center;
+
+}
+
+.encabezado{
+    background-color: #6c6060;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    text-align: center center;
+    padding: 5px;
+    display: inline-block;
+    
+
+}
+
+.primero p{
+    background-color: #fcfffd;
+    color: #000000;
+    margin: 15px;
+    padding: 35px;
+    text-align: center center;
+    border-bottom-right-radius: 35px;
+    border-top-left-radius: 35px;
+    border-bottom: solid  23px #000000;
+    border-left: solid   23px #000000;
+    display: block;
+}
+
+.botom{
+    background-color: #e96c0d;
+    color: #000000;
+    padding: 5px;
+    text-emphasis: none;
+    text-align: center center;
+    margin: 15px;
+    border-radius: 55px;
+    display: inline-flex;
+}
+
+
+.html{
+    width: 90px;
+    position: absolute;
+    top: -10px;
+    right: -1px;
+    display: flex;
+
+}
+.par{
+    position: absolute ;
+    width: auto;
+    bottom: 5000;
+    height: 100px ;
+    background: transparent;
+}
+.hj{
+    background-color: transparent;
+    overflow: hidden;
+    position: relative;
+    display: inline-flex;
+    margin: 50px;
+    top: -110px;
+    left: -70px;
+    
+   z-index: 1;
+}
+
+
+.hm{
+    display: inline-flex;
+    position: relative;
+    width: 300px;
+    top: 340px;
+    left: 300px;
+    transition: all 1.5s;
+    z-index: -1;
+}
+.hj:hover > .hm {
+    display: inline-flex;
+    position: relative;
+    width: 300px;
+    top: 0px;
+    left: 0px;
+}
